@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://26-sz-tch-arch.softwarelink.net/sitemap.xml

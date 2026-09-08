@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0e7490"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="80" y="250" fill="#67e8f9" font-family="Arial, sans-serif" font-size="42" font-weight="700">苏州职业技术大学</text>
+  <text x="80" y="330" fill="#ffffff" font-family="Arial, sans-serif" font-size="56" font-weight="700">教师成长档案袋系统</text>
+  <text x="80" y="400" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="28">JSZC-320500-JZCG-C2026-0220 · 预算 69.90 万元</text>
+</svg>
